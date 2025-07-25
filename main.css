@@ -463,37 +463,3 @@ footer .social-media li {
     line-height: 1.6;
   }
 }
-@media (max-width: 480px) {
- 
-  header {
-    flex-direction: column;
-    align-items: center;
-  }
-
-  nav {
-    flex-direction: column;
-    gap: 8px;
-  }
-
-  .hero-actions {
-    flex-direction: column;
-    gap: 8px;
-  }
-
-  .hero-analytics {
-    flex-direction: column;
-    align-items: center;
-    gap: 24px;
-  }
-
-  #companies {
-    flex-direction: column;
-    align-items: center;
-    padding: 32px;
-  }
-
-  #stores .section-body {
-    flex-direction: column;
-    align-items: center;
-  }
-}
